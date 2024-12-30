@@ -9,3 +9,4 @@ hysteria2://dongtaiwang.com@46.17.41.189:50717?sni=www.bing.com&insecure=1#%F0%9
 hysteria2://sysadmin.sysadmin@108.174.197.101:443?insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-108.174.197.101%3A443
 hysteria2://sysadmin.sysadmin@204.216.108.5:2024?sni=204-216-108-5.nip.io&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A8%F0%9F%87%A6%20CA-204.216.108.5%3A2024
 hysteria2://sysadmin.sysadmin@170.205.54.5:443?insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AE%F0%9F%87%B3%20IN-170.205.54.5%3A443
+saeed edit 12:13
