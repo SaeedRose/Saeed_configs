@@ -9,4 +9,5 @@ hysteria2://dongtaiwang.com@46.17.41.189:50717?sni=www.bing.com&insecure=1#%F0%9
 hysteria2://sysadmin.sysadmin@108.174.197.101:443?insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-108.174.197.101%3A443
 hysteria2://sysadmin.sysadmin@204.216.108.5:2024?sni=204-216-108-5.nip.io&insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%A8%F0%9F%87%A6%20CA-204.216.108.5%3A2024
 hysteria2://sysadmin.sysadmin@170.205.54.5:443?insecure=1#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%AE%F0%9F%87%B3%20IN-170.205.54.5%3A443
-
+vless://a13f7e88-7319-440f-91c4-f1f4521b6918@cdnjs.com:8080?path=%2FAYLyQhrPomyGlQ05%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=&encryption=none&host=7791d663-long-dream.alirezalovejlo.workers.dev&type=ws#%F0%9F%87%A9%F0%9F%87%AAhamedp71%F0%9F%87%A9%F0%9F%87%AA
+vless://5e55f1c4-cd7d-49c8-aa6f-221e0bc9ffb5@ip.sb:443?path=%2F9QGAIMJM51l6JToD%2FdHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&alpn=http%2F1.1&encryption=none&host=hamedp71-tt.pages.dev&fp=randomized&type=ws&sni=hameDP71-tT.PAgeS.deV#%F0%9F%87%B9%F0%9F%87%B7-hamedp71%F0%9F%87%B9%F0%9F%87%B7
